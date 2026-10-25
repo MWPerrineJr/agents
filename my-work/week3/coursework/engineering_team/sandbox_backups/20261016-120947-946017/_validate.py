@@ -1,0 +1,17 @@
+print("A")
+import gradio as gr
+print("B", gr.__version__)
+import app
+print("C", type(app.demo).__name__)
+assert isinstance(app.demo, gr.Blocks)
+print("D blocks ok")
+fresh = app.build_demo()
+assert isinstance(fresh, gr.Blocks)
+print("E fresh ok")
+s, sm, h, t = app.handle_create_account("alice", 5000)
+print("F create:", s[:60])
+s, sm, h, t = app.handle_buy("alice", "AAPL", 2)
+print("G buy:", s[:60], "holdings=", h)
+s, sm, h, t = app.handle_withdraw("alice", 10_000_000)
+print("H withdraw-error:", s[:60])
+print("ALL OK")

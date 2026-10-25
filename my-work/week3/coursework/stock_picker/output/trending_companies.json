@@ -1,0 +1,10 @@
+{"companies":[
+    {"name":"Microsoft",
+    "ticker":"MSFT",
+    "reason":"Microsoft plans huge deployment of its own AI chips and announced the next generation of its custom AI chip, with plans to deploy potentially more than a million of them."},
+    {"name":"Alphabet",
+    "ticker":"GOOGL",
+    "reason":"Tech companies are tapping debt and equity to fund AI and cloud expansion, and Alphabet is among the tech giants signaling this spending shift."},
+    {"name":"AMD",
+    "ticker":"AMD",
+    "reason":"AI accelerator chips remain a major market theme, and AMD is highlighted as one of the leading companies in this expansion."}]}

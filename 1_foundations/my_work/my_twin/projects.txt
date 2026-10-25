@@ -1,0 +1,77 @@
+Projects completed:
+This repo houses completed projects. The goal is to showcase projects that exhibit proficiencies in data science. 
+
+The projects included in this repo are :
+
+1. Churn Analysis: 
+https://github.com/MWPerrineJr/completed-projects/tree/main/Churn%20Analysis
+Customer turnover is a concern for business across many 
+industries. The ability to identify at risk clients before 
+they leave is essential to maintain marketshare. 
+Understanding customer behavior and migration habits 
+the firm is able to craft programs to promote client 
+retention. This analysis uses a sophisticated artificial
+ neural network to accomplish this goal.
+
+2. Fraud Detection:
+https://github.com/MWPerrineJr/completed-projects/tree/main/Fraud%20Detection
+In this project I used synthetic data to analyze transaction 
+data to identify fraudulent transactions. The data for this 
+analysis was obtained from Kaggle. To accomplish this goal,
+ I completed a series of transformations. To complete the 
+ analysis, I built a pipeline and ran a logistic regression. 
+ In addition, I used the data to build an app to identify 
+ a fraudulent transaction.
+
+3 X-Ray Analysis:
+https://github.com/MWPerrineJr/completed-projects/tree/main/XRay%20Analysis
+Innovation drives medical advancements. We're seeing more
+technical advancements happening in the medical field.
+These advancements are responsible for improvements in
+quality of life for millions of individuals. One of 
+these advancements is the use of machine learning and
+AI in medical diagnosis. In this analysis I built a
+convolutional neural network (CNN) to identify the
+ differences between heathy and diseased lungs.
+
+
+
+Projects in progress:
+
+1. SAAS Barber Shop App:
+Businesses are always looking to gain a competitive advantage.
+Managing KPI's is a crucial aspect of business. KPI management
+helps business owners manage cashflow, examine profitability,
+and control employee costs. That's the goal of the barbershop
+app. This app will manage schedules for barbers and hairdressers,
+track cashflow. In addition it will have features to manage
+reviews, billing, and inventory management.
+
+2. Heart Attack Prediction:
+Health care is a personal topic. Everyone wants to live
+a happy and healthy life. Sometimes we need help to achieve
+that goal. The heart attack prediction app is geared to
+shed light on the contributing factors. The analysis will
+use various factors to predict individuals at high risk
+for a heart attack and hopefully reduce their risks.
+
+3. Crypto Currency Analysis Tool:
+Selecting the right crypto currency is a daunting task.
+Everyday people are rolling the dice and losing money. 
+With this tool investors can find the right currency to
+invest. The tool will pull crypto data and build additional
+features for analysis. In addition the tool will include
+a professional back test. In addition a sophisticated
+machine learning algorithm will give the investor 
+confidence when making investment decisions.
+
+Projects in development:
+
+1. Sales AI Agent:
+Researches prospects, drafts personalized outreach, follows
+up, and updates a CRM.
+
+2. AI Business Analyst:
+Generates dashboards, forecasts, executive summaries,
+and recommendations from business data.
+
